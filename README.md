@@ -5,7 +5,8 @@ Bloc/Cubit, dependency injection, and local persistence through Drift's typed
 SQLite API. I started this project to see how an Android-style architecture works in Flutter.
 
 ## Preview
-![Movie Flutter screens]]([images/movie_flutter.gif?raw=true](https://github.com/rizqiaryansa/movie_flutter/blob/main/images/movie_flutter.gif))
+![Movie Flutter screens]](https://github.com/rizqiaryansa/movie_flutter/blob/main/images/movie_flutter.gif?raw=true)
+
 
 ## Features
 
