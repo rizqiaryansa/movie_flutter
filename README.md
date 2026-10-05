@@ -152,4 +152,4 @@ dart analyze
 
 ## Data source
 
-Movie metadata and images come from [The Movie Database (TMDB)](https://www.themoviedb.org/). This project uses the TMDB API.
+Movie sources come from [The Movie Database (TMDB)](https://www.themoviedb.org/). This project uses the TMDB API.
